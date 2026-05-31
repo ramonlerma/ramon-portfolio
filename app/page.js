@@ -4,15 +4,15 @@ export default function Home() {
       <div className="max-w-5xl mx-auto">
 
         <div className="bg-white rounded-xl shadow-lg p-8 mb-8">
-          <h1 className="text-4xl font-bold mb-2">
+          <h1 className="text-4xl font-bold text-black mb-2">
             Ramon Lerma
           </h1>
 
-          <h2 className="text-xl text-gray-600 mb-4">
+          <h2 className="text-xl text-black mb-4">
             Business Analyst | Project Coordinator | Operations Analyst
           </h2>
 
-          <p className="text-gray-700">
+          <p className="text-black">
             U.S. Air Force Veteran with experience in KPI reporting,
             forecasting, sales operations, process improvement,
             project coordination, and data analysis.
@@ -26,7 +26,7 @@ export default function Home() {
         <div className="grid gap-6">
 
           <div className="bg-white p-6 rounded-xl shadow">
-            <h3 className="text-xl font-bold mb-2">
+            <h3 className="text-xl font-bold text-black mb-2">
               Executive KPI Dashboard
             </h3>
 
